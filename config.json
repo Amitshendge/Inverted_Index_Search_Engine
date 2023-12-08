@@ -1,7 +1,0 @@
-{
-    "connection_string":"mongodb://localhost:27017",
-    "db_name":"Movie_Review",
-    "search_field":"movie",
-    "data_collection_name":"Data",
-    "index_collection_name":"Invert_Index"
-}
